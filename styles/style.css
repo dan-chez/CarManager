@@ -1,0 +1,48 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5
+}
+
+img {
+  margin-right: 10px;
+  width: 120px;
+}
+
+header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+main {
+    padding-top: 32px;
+}
+
+.introduction {
+    margin-bottom: 20px;
+    max-width: 38rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+h2 {
+    margin-bottom: 12px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
